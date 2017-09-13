@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/igorlima/todo-mongo-graphql-server#readme",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.13.3",
     "express-graphql": "^0.4.4",
     "graphql": "^0.4.12",
